@@ -1,5 +1,5 @@
-## Hi there 👋
 
+:wave: Hi! I'm currently diving into the world of web scraping. I'm passionate about learning new technologies and eager to grow my skills. Always open to new challenges and opportunities! :rocket:
 <!--
 **Manoil-Ivanov/Manoil-Ivanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
