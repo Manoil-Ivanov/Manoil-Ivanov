@@ -2,6 +2,9 @@
 
 #### 🙂 **Hi, I am Manoil Ivanov!** 
 [![image](https://github.com/user-attachments/assets/b44dff0a-8a60-4433-b42c-b6c25922502a)](https://www.linkedin.com/in/manoil-ivanov-7339a2177/)
+<a href="https://www.linkedin.com/in/manoil-ivanov-7339a2177/">
+    <img src="https://github.com/user-attachments/assets/b44dff0a-8a60-4433-b42c-b6c25922502a" alt="LinkedIn Profile" width="25" height="25" />
+</a>
 
 
 🚀 I'm currently diving into the world of web scraping. I'm passionate about learning new technologies and eager to grow my skills. Always open to new challenges and opportunities! 
