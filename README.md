@@ -1,3 +1,4 @@
+##👋 Bio & Introduction
 
 :wave: Hi! I'm currently diving into the world of web scraping. I'm passionate about learning new technologies and eager to grow my skills. Always open to new challenges and opportunities! :rocket:
 <!--
