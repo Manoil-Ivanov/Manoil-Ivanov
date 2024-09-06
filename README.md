@@ -1,6 +1,8 @@
 ## 👋 Bio & Introduction
 
 #### 🙂 **Hi, I am Manoil Ivanov!** 
+[![image](https://github.com/user-attachments/assets/b44dff0a-8a60-4433-b42c-b6c25922502a)](https://www.linkedin.com/in/manoil-ivanov-7339a2177/)
+
 
 🚀 I'm currently diving into the world of web scraping. I'm passionate about learning new technologies and eager to grow my skills. Always open to new challenges and opportunities! 
 <!--
