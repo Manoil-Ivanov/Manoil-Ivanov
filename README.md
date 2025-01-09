@@ -6,7 +6,7 @@
 </a>
 
 
-🚀 I'm currently diving into the world of Web Scraping. I'm passionate about learning new technologies and eager to grow my skills. Always open to new challenges and opportunities! 
+🚀 I'm currently navigating from Corporate Finance into the world of Cybersecurity. From crunching numbers to combating cyber threats, I’m trading balance sheets for firewalls and embracing the adrenaline-fueled world of cybersecurity — because who says finance folks can't fight hackers with the same precision they balance budgets?
 <!--
 **Manoil-Ivanov/Manoil-Ivanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
